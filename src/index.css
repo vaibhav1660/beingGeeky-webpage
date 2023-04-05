@@ -1,0 +1,97 @@
+body{
+  padding: 0%;
+  margin: 0%;
+}
+#being-geeky{
+  margin-top: 60px;
+  text-align: center;
+}
+
+#being-geeky h1{
+  font-size: 3rem;
+}
+#being-geeky h3{
+  font-size: 1.5rem;
+  padding-top: 2rem;
+}
+#being-geeky div p{
+  font-size: 1.2rem;
+  margin-top: 8vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+}
+#document {
+  background-color:rgb(71,111,112);
+  text-align: center;
+  color:beige;
+}   
+#icon{
+  font-size: 3rem;
+  font-weight: bold;
+}
+#spa{
+  font-size: 3rem;
+  font-weight: bold;
+}
+#head{
+  margin-top: 2%;
+  font-size: 1.5rem;
+  margin-bottom: 3%;
+}
+#document p{
+  font-size: 1.2rem;
+  margin-bottom: 3%;
+}
+#document div button{
+  background-color: rgb(16,48,99);
+  margin-bottom: 2.5rem;
+}
+#document img{
+  height: auto;
+  width: 75%;
+  padding: 2%;
+}
+#navbar{
+  margin: 0%;
+  padding: 0%;
+}
+
+
+#tutorial{
+  text-align: center; 
+  font-family: "Roboto Slab";
+}
+#tutorial h3{
+  font-size: 1.85rem;
+  padding-top: 3.5rem;
+  padding-bottom: 2rem; 
+}
+#tutorial p{
+  font-size: larger;
+  line-height: 2em;
+}
+#tutorial button{
+  margin-top: 2em;
+  background-color: rgb(139, 70, 61);
+  padding: 2px;
+  margin-bottom: 1rem;
+}
+#footer{
+  background-color:rgb(71,111,112);
+  color: antiquewhite;
+  text-align: left;
+}
+#footer div h6{
+  padding-top: 4rem;
+}
+#footer div ul{
+  list-style: none;
+}
+#footer div ul li a{
+text-decoration: none;
+color: beige;
+}
+#footer section{
+  padding : 5vh;
+}
